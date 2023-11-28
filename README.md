@@ -5,5 +5,5 @@ Linked lists, Heap, Queues, Stacks;
 Abstract Data types;
 Multifile C programming;
 Graphs and basic algorithms related;
-Optimization problems and different approaches related: dividi et impera paradigm with usage of combinatorial calculus models, dynamic programming paradigm;
+Optimization problems and different approaches related: dividi et impera paradigm with use of combinatorial calculus models, dynamic programming paradigm;
 All the proposed solutions were implemented by me during the semester. No solutions were proposed later by proferssors.
